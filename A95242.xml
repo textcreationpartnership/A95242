@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True relation of the most horrid and barbarous murders committed by Abigall Hill of St. Olaves Southwark, on the persons of foure infants; parish children, whom she undertooke to nurse, and her most deceitfull borrowing of other children of her poore acquaintance, whom on every quarter day she would bring to the over-seers of the parish, and receive her quarters pay for them, as if they had bin the same children which had bin committed to her charge to nurse. For which most cruell murders, being convicted and condemned at the sessions held at the Old-Baily. Wednesday Decemb. 15. Shee [sic] was accordingly executed on Wednesday, Decemb. 22. in Cheapside neare unto Woodstreet. Together with a true account of the strange and stubborn end she made, and her jeering of her executioner at the houre of her death. And a caveat to all other women that are suspected for the like unnaturall and most unmercifull practises.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95242</idno>
+            <idno type="STC">Wing T3008</idno>
+            <idno type="STC">Thomason E1881_2</idno>
+            <idno type="STC">ESTC R209883</idno>
+            <idno type="EEBO-CITATION">99868734</idno>
+            <idno type="PROQUEST">99868734</idno>
+            <idno type="VID">170516</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95242)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170516)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 234:E1881[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True relation of the most horrid and barbarous murders committed by Abigall Hill of St. Olaves Southwark, on the persons of foure infants; parish children, whom she undertooke to nurse, and her most deceitfull borrowing of other children of her poore acquaintance, whom on every quarter day she would bring to the over-seers of the parish, and receive her quarters pay for them, as if they had bin the same children which had bin committed to her charge to nurse. For which most cruell murders, being convicted and condemned at the sessions held at the Old-Baily. Wednesday Decemb. 15. Shee [sic] was accordingly executed on Wednesday, Decemb. 22. in Cheapside neare unto Woodstreet. Together with a true account of the strange and stubborn end she made, and her jeering of her executioner at the houre of her death. And a caveat to all other women that are suspected for the like unnaturall and most unmercifull practises.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "xber [i.e December] 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hill, Abigail, d. 1658 --  Early works to 1800.</term>
+               <term>Murder --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170516:1" rendition="simple:additions"/>
+            <p>A true Relation Of the moſt Horrid and Barbarous murders committed by <hi>Abigall Hill</hi> of St. <hi>Olaves Southwark,</hi> on the perſons of ſoure Infants; Pariſh Children, whom ſhe undertooke to Nurſe, and her moſt deceitfull borrowing of other Children of her poore Acquaintance, whom on every Quarter day ſhe would bring to the Over-ſeers of the Pariſh, and receive her Quarters pay for them, as if they had bin the ſame Children which had bin com<g ref="char:EOLhyphen"/>mitted to her charge to Nurſe.</p>
+            <p>
+               <hi>For which moſt cruell Murders, being</hi> convicted and condemned at the Seſſions held at the Old-Baily. Wedneſday <hi>Decemb.</hi> 15. Shee was accordingly Executed on Wedneſday, <hi>Decemb.</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>2. in <hi>Cheapſide</hi> neare unto <hi>Woodſtreet.</hi>
+            </p>
+            <p>
+               <hi>Together with a true Account of the ſtrange</hi> and ſtubborn end ſhe made, and her jeering of her Executioner at the houre of her Death.</p>
+            <p>And a Caveat to all other Women that are ſuſpected for the like unnaturall and moſt unmercifull Practiſes.</p>
+            <p>
+               <add>Decemb</add> LONDON, Printed for <hi>F. Coles,</hi> 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:170516:2"/>
+            <pb n="1" facs="tcp:170516:2"/>
+            <head>An exact Relation of the moſt horrid Murders com<g ref="char:EOLhyphen"/>mitted on foure Children, by their cruell Foſter mother <hi>Abigall Hill,</hi> of St. <hi>Olaves Southwarke,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>he firſt Sin remarkable in the poſterlly of <hi>Adam</hi> was a crying Sinne. The bloud of <hi>Abel</hi> cryed vnto Heaven for bengeance. No doubt, but <hi>Cain</hi> before committed many actuall franſgreſſions <hi>Sin lyeth at the doore</hi> ſaith GOD; Mark what haſt. ſinne, and the puniſhment thereof do make to overtake the ſinner; wee ſhall find Sin lying at the doore when there was ſcarce a doore in the world.</p>
+            <p>The ſhedding of innocent Blood is a Sin that lyeth at the doore of the Conſci<g ref="char:EOLhyphen"/>ence, and knocketh thereat as lowd as
+<pb n="2" facs="tcp:170516:3"/>
+Thunder; but cuſtome in ſinning both take away the ſence of Sinue. In a man or woman of a bloody Spirit, one murder makes way for another her Con<g ref="char:EOLhyphen"/>ſcience was ſeared as was this wiched womans who is the ſubject of our pre<g ref="char:EOLhyphen"/>ſent diſcourſe; There are ſome who de<g ref="char:EOLhyphen"/>light in Murder, and the Ruine of the world and theſe perſons though they thirſt after Fame and immortality, and after their deaths have Monuments rai<g ref="char:EOLhyphen"/>ſed to eternize their Names, yet they goe in an indirect and croſſe way both to GOD and Nature; It to the endeavour of Nature to preſerbe it ſelf; now, what cnn be more contrary to this indeavour then to deſtroy one another which to the way to deſtroy Nature: And we ſhall find God ſo tender in ſhedding of Blood, that his Commandements are alwaies and altogether expreſſe againſt it; <hi>Da<g ref="char:EOLhyphen"/>vid</hi> was not permitted to build the Tem<g ref="char:EOLhyphen"/>ple unto God, becauſe he had in his blood, although it was red only in the bloud of his Enemies, and the Enemies of God.</p>
+            <p>The Children of Iſrael were forbid<g ref="char:EOLhyphen"/>ven to eat any thing in which was the bloud, and the ſame mandate was giver
+<pb n="3" facs="tcp:170516:3"/>
+alſo the Chriſtians; Although St. <hi>Iames</hi> and the Elders of <hi>Ieruſalem</hi> determined, that the converted Gentiles ſhould not obſerve the lawes of the Jewes, yet they were expreſly commanded to kéep them<g ref="char:EOLhyphen"/>ſelves from Bloud, and from that which is ſtrangled, they ſhould be ſo farre from the ſhedding of the bloud of one another, that they ſhould refraine from the blond of the Creatures allowed by God for the nouriſhment of men, that was ſhed.</p>
+            <p>And this ſhedding of the Bloud of one another, hath béen ſo odious to God that he alwayes left ſome tokens of his high diſpleaſure againſt it, and the Murderet hath ſeldom eſcaped undiſcovered or un<g ref="char:EOLhyphen"/>puniſhed.</p>
+            <p>For beſides the checks of the Conſci<g ref="char:EOLhyphen"/>ence which flaſheth forth terror, and flies in the face of the Murderers, we ſhall find that it hath pleaſed God oftentimes in a miraculous manner to make diſco<g ref="char:EOLhyphen"/>veries of Murders committed, ſometimes by Binds ſomtimes by Beaſts, and ſom<g ref="char:EOLhyphen"/>times by the appaition of the Perſon murdered, of which Hiſtories can furniſh vs with abundant examples, and no ages have béen exempted from giving ma<g ref="char:EOLhyphen"/>ny
+<pb n="4" facs="tcp:170516:4"/>
+remarkable demonſtrations of it.</p>
+            <p>We néed not goe into forraine Coun<g ref="char:EOLhyphen"/>tries to fetch Examples to prove this truth. It is not yet two yeares ſince the notorious Murder was committed by <hi>Nathaniel Butler</hi> on the perſon of his dea<g ref="char:EOLhyphen"/>reſt friend and companion <hi>Iohn Knight;</hi> The bloody deſigne being put in executi<g ref="char:EOLhyphen"/>on, how was his Conſcience tormented with the horror and apprehenſton of his guilt, we ſhall find it was ſo much ſtart<g ref="char:EOLhyphen"/>led that he was not able either to tarry at home or to fly abroad; what a déepe impreſſon did the blood of his friend leave upon his ſoule. How many teares did he ſhed to purge it. How unquiet was his ſoule, how perplered was that body w<hi rend="sup">ch</hi> could find no reſt but by death only.</p>
+            <p>This ſo ſtartied him that he could injoy no intermiſſions, no reſpits of any com<g ref="char:EOLhyphen"/>fort but by Death only, and in this man<g ref="char:EOLhyphen"/>ner many being tormented in their Con<g ref="char:EOLhyphen"/>ſciences do néed no further diſcoveries, it being impoſſible for them to be at quiet untill they doe diſcover themſelves, and offer themſelves as Sacrifices to that Juſtice which they have violated.</p>
+            <p>Sometimes Murders have béen diſco<g ref="char:EOLhyphen"/>vered
+<pb n="5" facs="tcp:170516:4"/>
+by the ſoules of the ayre; In the ſame manner a Gentleman in <hi>Norfolke, Ralph ſuckey</hi> by name, having Murdered one who as he ſaid, had done him great injury, could not afterwards be ſatisfied within himſelfe. Walking one time in the field he beheld a company of Crowes flying by him and making ſuch a noiſe as they are accuſtomed when they fl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in ſtockes. The noiſe they made was but ordinary but the guilt of this Murderer was extraordinary; for reflecting on the horror of his <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>act applying all things to himſelfe, he beléeved that the Crowes did articularly reprove &amp; far him for his Murder; walking not long afterwards at a town called <hi>Burnham,</hi> be beheld three or foure more Crowes flying by him, and making the like noiſe, the apprehenſion thereof working open the guilt of his conſcience did ſo much affright him, that of himſelfe bee expreſſed words of great ſuſpition of which notice being take<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by a ſtander by he was preſently had before a Juſtice to whom be confeſſed his long concealed Murther and ſaid moreover. <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat if his tongue ſhould deny it, yet his conſcience would proclaime it.</p>
+            <p>
+               <pb facs="tcp:170516:5"/>
+Having Confeſſed it, be ſéemed to be at great eaſe, having diſcharged himſelf of a borthen that did ſo greatly oppreſſe him, and ſéemed to be worſe then Death unto him, the paines whereof, being con<g ref="char:EOLhyphen"/>demned by Juſtice, be willingly did un<g ref="char:EOLhyphen"/>dergoe at Thetford the Aſſiſes following.</p>
+            <p>If you pleaſe to diſcend into the Thea<g ref="char:EOLhyphen"/>ter, it will preſent you with a Hiſtorie more rare and remarkable then this; It will give you the ſight of a cruell and a covelous young man, who to enjoy the ſtate of his Brothers Son did under the pretence of Hunting draw him into a neighbouring wood. where moſt inhu<g ref="char:EOLhyphen"/>manely be bereaved him of his Life, and buryed him under a great Tree. This being done, be divulged it forth abroad, that his Kinſman having a great mind to ſée novelties, and the Government of forrain Countries was travelled beyond the Seas, and in his abſence had orday<g ref="char:EOLhyphen"/>ned him to be Overſéer of his eſtate be<g ref="char:EOLhyphen"/>ing very ſorry that he could no wayes diſſwade him from ſuch raſh and heady counſelo. This Report was entertained into the beliefe of all his Kinſmen, and continued currant for certaine yeares; At the laſt be cauſed it to be ſpred forth abroad, that his Kinſman was dead be<g ref="char:EOLhyphen"/>yond
+<pb facs="tcp:170516:5"/>
+the Seas, and being the only Heire that was left, be for many yeares with<g ref="char:EOLhyphen"/>out any diſturbance did inherite his E<g ref="char:EOLhyphen"/>ſtate but not without ſome viſible Judg<g ref="char:EOLhyphen"/>ment; for his Children dyed. It was the mit of Juſtice that he ſhould be left Childleſs himſelf, who had deſtroyed his brothers Child, to enrich his own family</p>
+            <p>In the proceſſe of Time, walking in the fields which ſo unjuſtly he had poſ<g ref="char:EOLhyphen"/>ſeſſed, and thinking himſelfe ſecure, and frée from all dangers whatſoever, be<g ref="char:EOLhyphen"/>held where two Robens ſoaring over his head did ſtoope lower to it, as they came nearer to him. This ſight was ſtrange unto him, but the noiſe they made was more terrible. he uſed all the meanes that poſſibly he could to fright them from him but neither the ſhoutes which he made, nor the noiſe of his Gun would prevaile, for the Ravens ſtill ho<g ref="char:EOLhyphen"/>vered over his dead, or were neare unto him either on the one ſide of him or the o<g ref="char:EOLhyphen"/>ther. Eatring into houſe they made a great noiſe, &amp; ſoaring upward they whee<g ref="char:EOLhyphen"/>led abrut the houſe and then pearched on the top of it; He cauſed them to be ſhot at, but they were not hurt, &amp; if they rsſe from the top of the houſe they preſently again would alight upon it.</p>
+            <p>
+               <pb n="8" facs="tcp:170516:6"/>
+Night comming on, the Maſter of the houſe entertained a hope that they wold be gone, and commanding Horſes to be made ready be withdrew himſelfe with his ordinary trayne of Servants to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>no<g ref="char:EOLhyphen"/>ther place, but all in vaine, for theſe two dreadfull and black winged Summoners did ſtill attend him. On the morning fol<g ref="char:EOLhyphen"/>lowing be offered a round ſumme of mo<g ref="char:EOLhyphen"/>ney to any one that could kill thoſe Ra<g ref="char:EOLhyphen"/>vens, which although it was often at<g ref="char:EOLhyphen"/>tempted, as before yet could never be ef<g ref="char:EOLhyphen"/>fected: At the laſt his hope and his heart ſainted and caving with diſpaire be con<g ref="char:EOLhyphen"/>feſſed the Murder he had committed. Its words at the firſt were taken as procée<g ref="char:EOLhyphen"/>ding from a Man that had loſt his ſences and his health. But the place being ſear<g ref="char:EOLhyphen"/>ched where in the Wood be acknowledged that he had buried his Brothers Sonne, after a little digging in the ground the Spade grated againſt the skull &amp; ſeve<g ref="char:EOLhyphen"/>rall Bones were taken up which no ſoo<g ref="char:EOLhyphen"/>ner were brought unto the houſe where the Murderer was, but the two Ravens (having done the buſineſſe in which the divine Providence did imploy them) did By away and they were ſéene no more a<g ref="char:EOLhyphen"/>bout the houſes. The Murderer being
+<pb n="9" facs="tcp:170516:6"/>
+dragged to the Tayle was brought not long afterwards before the Court of Ju<g ref="char:EOLhyphen"/>ſtice, where being Condemned for his murder be anſwered for the guilt of his <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>act with the forfeit of his life</p>
+            <p>Sometimes we ſhall find that Dogs have béen made inſtruments to bring to light Murders that have been co<g ref="char:cmbAbbrStroke">̄</g>mited: ſometimes inanimate things have been made inſtrumentall in it; and the judg<g ref="char:EOLhyphen"/>ment of GOD upon Murderers have a<g ref="char:EOLhyphen"/>mongſt the Heathen been ſo remarkable, that we ſhall find they have ſeldome e<g ref="char:EOLhyphen"/>ſcaped unpuniſhed. The cenſure of the Barbarians when they ſaw the Uiper to leape out of the fire, and to hang on the hand of <hi>Paul</hi> is moſt conſiderable, <hi>surely ſaid they, this man is a Murderer whom though hee hath eſcaped the Sea, yet Venge<g ref="char:EOLhyphen"/>ance will not ſuffer him to live.</hi>
+            </p>
+            <p>But to procéed to our Subject in hand, It is an ancient Proverb in this Nation, That ſeldome any notorious Murder is committed, but a Woman hath a hand in it. To this the ſeverall Jailes in this land and places of Execution have given many teſtimonies. How mercileſſe were thoſe female furies who came over from
+<pb n="10" facs="tcp:170516:7"/>
+               <hi>Ireland</hi> with recruits for the late King, Their Knives were more bloudy then were the Swords of their companions.</p>
+            <p>It is not much regarded but very true it is, that the fineſt and ſofteſt Tem<g ref="char:EOLhyphen"/>pers being depraved doe grow moſt ob<g ref="char:EOLhyphen"/>durate, the pureſt Natures doe prove moſt vitions. Had not <hi>Lucifer</hi> been the Son of the morning it id poſſible that he had never béen the Prince of Darkneſs<g ref="char:punc">▪</g> had not the Complexions of ſome Wo<g ref="char:EOLhyphen"/>men béen ſo tempting and their Incli<g ref="char:EOLhyphen"/>nations ſo tender by Nature, It is like<g ref="char:EOLhyphen"/>ly they had never béen ſuch Devils as they are.</p>
+            <p>It is a Principle in Philoſophy, that <hi>Corruptio optima eſt poſſima.</hi> The beſt Corruption is the worſt, and it holds true as well in the Intlinations of the mind, as in the Conſtitutions of the Bo<g ref="char:EOLhyphen"/>dy. Who would have thought that love and tenderneſſe ſhould be corrupted into cruelty? Who would have thought that the Nurſe of Children ſhould become the Murderer of Children? O horrid fruits of unruly Avarice; And O the wicked<g ref="char:EOLhyphen"/>neſs of a Womans haart, hardned into the practice of all manner of villany.</p>
+            <p>This woman <hi>Abigall Hill,</hi> was look'd
+<pb facs="tcp:170516:7"/>
+upon by all her Neighbours, for a Wo<g ref="char:EOLhyphen"/>man inclined to much Compaſſion, ſhe ſeemed much to pitty young Children, that were in diſtreſſe, and according to bee power to relieve them, She was therefore ſuppoſed to be a good nurſe in<g ref="char:EOLhyphen"/>to whoſe charge and care the Nurſing up of young Children ſhould be committed.</p>
+            <p>She lived many yeares in the Pariſh of St. <hi>Olaves</hi> in <hi>Southwark</hi> with her Huſ<g ref="char:EOLhyphen"/>band who to yet living, and ſome Chil<g ref="char:EOLhyphen"/>dren ſhe brought up carefully, and retur<g ref="char:EOLhyphen"/>ned them after the time was out unto the Pariſh who payed her for them, thin<g ref="char:EOLhyphen"/>king her to be a carefull and good Wo<g ref="char:EOLhyphen"/>man; And this was the reaſon that ma<g ref="char:EOLhyphen"/>ny Children were brought uncover, and if at any time any Child forſaken by the wicked Mother was left upon the Pa<g ref="char:EOLhyphen"/>riſh, we would be ready to receive &amp; un<g ref="char:EOLhyphen"/>dertake to bring it up being a Nurſe as wicked, and more cruell then the Mother.</p>
+            <p>Seven years thus ſhe lived, &amp; no notice was taken of what became of her Chil<g ref="char:EOLhyphen"/>dren if any were miſſing, it being bleſe<g ref="char:EOLhyphen"/>ſed that they dyed by ſickneſs, or having too many of them lying on her hands ſhe thad delivered the <hi>charge of them to ſome o<g ref="char:EOLhyphen"/>her poore woman to be carefull of them.</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:170516:8"/>
+It was oftentimes murmured indéed amongſt her Neighbours, that ſuch and ſuch a Child was conveyed away, and much ſuſpition there was amongſt them becauſe they could not tell what was be<g ref="char:EOLhyphen"/>come of it and the ſodenneſſe of the re<g ref="char:EOLhyphen"/>movall of the Child without anr noiſe of Sickneſs or diſcontent, did adde much unto their jealouſie: At the laſt, it plea<g ref="char:EOLhyphen"/>ſed God, that this wicked Woman and her Husband did fall out where in the beat of his paſſion bee did upbrain her with the Children ſhe had made away.</p>
+            <p>This preſently was taken notice of by the Neighbours, who affirming it was pitty that ſuch a wicked Creature ſhould live upon the Earth. did acquaint the Conſtable with it, who carrying her be<g ref="char:EOLhyphen"/>fore a Juſtice of the Peace (ſhe having but little to ſay for herſelfe) was ſent to <hi>Newgate,</hi> and at the Seſſions following which began on Wedneſday, <hi>Decemb.</hi> 15. her Inditement was read, for Murdering of foure Children and ſhee being not able to ſay any thing for her ſelfe, as to give anſwer what became of the Chil<g ref="char:EOLhyphen"/>dren, or if they were dead to ſatisfie where they were buried, the Jury ſound
+<pb n="13" facs="tcp:170516:8"/>
+her guilty, not only for that bortid mur<g ref="char:EOLhyphen"/>der, but for the charge againſt her, that ſhe had made a Trade of it, and that at the Quarter day, ſhe would borrow Children of her poore acquaintance, and being them to the Maſters of the Pariſh as if they were thoſe ſhee had taken into her cuſtody to Nurſe, and having recei<g ref="char:EOLhyphen"/>ved her pay for them ſhe would returne them againe unto thoſe of whom ſhe had borrowed them.</p>
+            <p>All the Confeſſion which ſhe made at the Barre was, that indeed once one of her Children lying ſicke, and but little h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pe of Life, ſhe did wring it by the neck and killed it, to put it out of its paine; For this and her other horrid Murders, ſhe was condemned to ſuffer Death and be hanged at <hi>Cheapſide.</hi> wch accordingly was performed on Wedneſday <hi>Decem<g ref="char:EOLhyphen"/>ber,</hi> 22. 1658.</p>
+            <p>Being come to the place of Execution, either the ſtubbornneſs of her reſolution or the deſperatneſſe of her condition had made her almoſt ſenceleſſe; for ſhe made no Confeſſion at all, and being adviſed of the ſhortneſſe of her Life and to méet with God by repentance, ſhe would re<g ref="char:EOLhyphen"/>turne
+<pb n="14" facs="tcp:170516:9"/>
+no anſwer to the admonitions of the Divine, nor of any other that did give her any ſaving Counſels. It is obſervable that being on the Ladder, as the Executioner was ſitting the fatail Roſe about her neck, ſhe turned ſodain<g ref="char:EOLhyphen"/>ly unto him as if ſhee had béen in ſome paſſion. and ſaid unto him, <hi>What! Doe you make account to choake me?</hi> She had Time given on her to make her Confeſ<g ref="char:EOLhyphen"/>ſion, but the people perceiving that ſhe abuſed their expactation, the Hangman at the laſt turned her off the Ladder and ſhe dyed miſerably, as ſhe dyed merci<g ref="char:EOLhyphen"/>leſly.</p>
+            <p>Wée heare of ſome Women, the one in <hi>Shoreditch,</hi> and the other in <hi>Shoo-lane,</hi> who although they have made no trade of kaine of it, have brought their Children, or their Apprentices to the like untime<g ref="char:EOLhyphen"/>ly ends. Theſe are ſad Stories, but I bopa not true. But this Woman may be an Example unto all to take bées how they run into the ſame Onilf, leaſt they partake of the ſame paublike puniſhment.</p>
+         </div>
+         <trailer>The End.</trailer>
+      </body>
+   </text>
+</TEI>
